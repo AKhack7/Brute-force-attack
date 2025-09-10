@@ -18,7 +18,7 @@ pkg install wget
 pkg install git
 ```
 ```
-git clone
+git clone https://github.com/AKhack7/Brute-force-attack.git
 ```
 ```
 cd SocialPhish
@@ -34,6 +34,7 @@ chmod +x socialphish.sh
 
 ```
 pkg install cloudflared
+```
 ```
 cloudflared tunnel --url
 ```
